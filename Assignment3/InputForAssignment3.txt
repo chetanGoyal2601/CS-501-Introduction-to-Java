@@ -1,0 +1,11 @@
+//Kindly use the input file 'InputForAssignment3' for inputs
+
+C5E16E20C6E10PrimeAndFactors:
+
+1 20 3 0.1 6 55 19 0.3 8 12
+
+C7E9E10E20SmallestElementAndSorting:
+
+1. For prime: 13
+
+2. For non-prime: 20

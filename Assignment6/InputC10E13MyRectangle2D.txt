@@ -1,0 +1,21 @@
+Input for C10E13:
+  X and Y for base - 0 0
+  Height and width for base - 12 10
+    For special case (when base and other rectangle have same area as well as share the boundaries):
+        X and Y for other - 0 0
+        Height and width - 12 10
+    For case when the other recatngle contains the base rctangle:
+        X and Y for other - 0 0
+        Height and width - 15 12
+    For contains:-
+        X and Y for other - 0 0
+        Height and width - 10 9
+    For overlaps:-
+        X and Y for other - 8 8
+        Height and width - 10 9
+    For abuts:-
+        X and Y for other - 6 0
+        Height and width - 2 2
+    For distinct:-
+        X and Y for other - -12 -12
+        Height and width - 5 512 

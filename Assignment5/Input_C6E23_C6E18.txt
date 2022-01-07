@@ -1,0 +1,2 @@
+Input for C6E23Occurence - Hello l
+Input for C6E18CheckPassword - 1. Password01    2. Pass    3. PasswordHello
